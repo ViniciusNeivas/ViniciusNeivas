@@ -1,12 +1,12 @@
-### Hi there 👋
+### Olá !!! Olá !!! Olá !!! 👋
 
 - 🔭 Em Busca Da Tão Sonhada Primeira Vaga De Desenvolvedor Java Jr
-- 🌱 Atualmente Estudando 
-- 💬 Ask me about ...
+- 🌱 Atualmente Estudando Java
+<!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
 <div align="center">
   <a href="https://github.com/ViniciusNeivas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusneivas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
