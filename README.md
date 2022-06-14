@@ -3,8 +3,11 @@
 
 - 🔭 Em Busca Da Tão Sonhada Primeira Vaga De Desenvolvedor Java Jr
 - 🌱 Atualmente Estudando Java
+- 💻 Desenvolvedor Full Stack em Formação
+- 🏫 Formado em Engenharia Elétrica
+- 📫 viniciusneivas@outlook.com.br
 <!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
@@ -16,9 +19,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusneivas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&border_radius=20px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusneivas&layout=compact&langs_count=7&theme=dracula&locale=pt-br&border_radius=20px"/>
 </div>
-  
+ 
  ##
-  
+ 
+ ## Linguagens, Tecnologias, Frameworks e Sistemas
   <div style="display: inline_block"><br>
                                                                 <!--JAVA -->
   <img align="center" alt="Vini-Java" height="28" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">             
@@ -39,8 +43,9 @@
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
 
-  ##
-  
+ ##
+ 
+  ## Entre em Contato Comigo
   <div> 
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
                                                           <!-- LINKEDIN -->
