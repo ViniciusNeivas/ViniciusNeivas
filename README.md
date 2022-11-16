@@ -1,10 +1,10 @@
 ### Olá !!! Olá !!! Olá !!! Eu Sou o Vinícius 👋
 
 
-- 🔭 Em Busca da Tão Sonhada Primeira Vaga de Desenvolvedor Web Jr
-- 🌱 Atualmente Estudando Java, JavaScript, HTML, CSS, e recentemente muito contato com AWS Cloud.
-- 💻 Desenvolvedor Full Stack em Formação
-- 🏫 Formado em Engenharia Elétrica
+- 🔭 Em busca da tão Sonhada primeira vaga de Desenvolvedor Web Jr
+- 🌱 Atualmente estudando Java, JavaScript, HTML, CSS, e recentemente tendo muito contato com AWS Cloud.
+- 💻 Formado como Desenvolvedor Java Júnior pela Generation Brasil
+- 🏫 Formado em Engenharia Elétrica pela Universidade Nove de Julho
 - 📫 viniciusneivas@outlook.com.br
 <!-- - 💬 Ask me about ...
 
