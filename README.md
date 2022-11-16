@@ -1,7 +1,7 @@
 ### Olá !!! Olá !!! Olá !!! Eu Sou o Vinícius 👋
 
 
-- 🔭 Em busca da tão Sonhada primeira vaga de Desenvolvedor Web Jr.
+- 🔭 Em busca da tão sonhada primeira vaga de Desenvolvedor Web Jr.
 - 🌱 Atualmente estudando Java, JavaScript, HTML, CSS, e recentemente tendo muito contato com AWS Cloud.
 - 💻 Formado no Bootcamp de Desenvolvedor Web Java Júnior da Generation Brasil.
 - 🏫 Formado em Engenharia Elétrica pela Universidade Nove de Julho.
