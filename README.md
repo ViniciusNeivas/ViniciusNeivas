@@ -1,4 +1,4 @@
-<div style: blackground-color= "blue" > 
+<div style: background-color= "blue" > 
 
 ### Olá !!! Olá !!! Olá !!! Eu Sou o Vinícius 👋
 
